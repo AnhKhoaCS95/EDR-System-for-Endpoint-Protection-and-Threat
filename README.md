@@ -8,7 +8,7 @@ It is designed to detect, prevent, and analyze attacks in real time.
 ## 📌 Network Diagram
 Below is the network topology for this project:
 
-![Network Diagram](./475d6cad-2e40-4d62-9930-64f591492fc0.png)
+<img width="1447" height="687" alt="Image" src="https://github.com/user-attachments/assets/c95babf2-6904-4184-80de-370e86bb97b1" />
 
 ---
 
